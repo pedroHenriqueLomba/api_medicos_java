@@ -1,0 +1,1 @@
+ALTER TABLE medicos ADD ativo boolean NOT NULL DEFAULT TRUE;
